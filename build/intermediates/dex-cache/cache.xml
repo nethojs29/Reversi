@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e8b8ddceb17dc5fb665f3ff21f3cd6e73c08a73e">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d193aee809ebf9d76be250480f698c479686cb0/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_ea4a5a1242549d52e48cc7cb9f42af2b4aba819a/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_42be9c21e248a8efecc35ed73bf6d5227848677d/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb858647046f31becead56d44c4f34bfb509c2f1">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b3f7ebe6b2bb5f33468b6d11afe944a9f451296/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_f5285214ce80003f65a091205c9f77c87fecaa1b/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_1db058c3b44331e9721694a13c1fcb754a3afe20/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_8702bf5ef8f9a2321ba8e52180d2ff23c01264c2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ernesto/Documents/Reversi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/ernesto/Documents/Reversi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_304876933cc9f37f648b122dfb7272311ea86d87/classes.dex" />
+    </item>
+
+</items>
